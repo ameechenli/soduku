@@ -4,6 +4,7 @@ a python script for solving soduku puzzle in seconds
 # how to run script
 
 amee@Kiki:~/test$ ./autoSoduku.py 
+
 ***********origin numbers*************
 [0, 1, 0, 0, 0, 0, 0, 0, 5]
 [4, 0, 0, 0, 2, 0, 0, 0, 0]
